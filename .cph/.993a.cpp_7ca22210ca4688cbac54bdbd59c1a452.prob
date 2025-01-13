@@ -1,0 +1,1 @@
+{"name":"Local: 993a","url":"c:\\Users\\Saurabh Kumar\\Desktop\\Contest\\993a.cpp","tests":[{"id":1734273529682,"input":"5\nqwq\nppppp\npppwwwqqq\nwqpqwpqwwqp\npqpqpqpq","output":"pwp\nqqqqq\npppwwwqqq\nqpwwpqwpqpw\npqpqpqpq"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Saurabh Kumar\\Desktop\\Contest\\993a.cpp","group":"local","local":true}

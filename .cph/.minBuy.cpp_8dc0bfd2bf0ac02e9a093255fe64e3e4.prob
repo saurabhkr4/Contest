@@ -1,0 +1,1 @@
+{"name":"Local: minBuy","url":"c:\\Users\\Saurabh Kumar\\Desktop\\Contest\\minBuy.cpp","tests":[{"id":1733324701122,"input":"3\n3 10\n1 2 3\n1 2 3\n3 10\n1 2 3\n1 2 1\n5 100\n5 10 15 20 25\n1 1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Saurabh Kumar\\Desktop\\Contest\\minBuy.cpp","group":"local","local":true}
